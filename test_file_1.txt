@@ -1,3 +1,4 @@
 Here is some test info
 * This is line 1
 * This is line 2
+* Adding another line in the new branch
