@@ -1,5 +1,5 @@
 Here is some test info
-* This is line 1
+* Hopefully this creates some significant conflicts
 * This is line 2
-* Now I am adding a different line 3
-* And also a line 4
+* So it seems like the changed line from new_branch has been kept
+* It's just the stuff that's changed differently in the two branches that causes the conflict?
