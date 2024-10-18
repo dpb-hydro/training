@@ -1,5 +1,5 @@
 Here is some test info
 * Hopefully this creates some significant conflicts
 * This is line 2
-* Adding another line in the new branch
-* Now I'm really messing around with the file
+* So it seems like the changed line from new_branch has been kept
+* It's just the stuff that's changed differently in the two branches that causes the conflict?
